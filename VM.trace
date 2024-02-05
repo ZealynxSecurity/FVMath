@@ -1,0 +1,10 @@
+test/MathMasters.t.sol:MathMastersTest
+ ├╴constructor
+ ├╴setUp()
+ │  ├╴create <unknown contract>@0xD95322745865822719164b1fC167930754c248DE [1m(test/MathMasters.t.sol:24)[0m
+ │  │  └╴← 487 bytes of code
+ │  ├╴create <unknown contract>@0x6eecb916B78765D6B277bFf328684Db91f4f6A5D [1m(test/MathMasters.t.sol:25)[0m
+ │  │  └╴← 437 bytes of code
+ │  └╴create <unknown contract>@0x08840f3a24bE3971C313F435453C9c749D3F936c [1m(test/MathMasters.t.sol:26)[0m
+ │     └╴← 684 bytes of code
+ └╴prove_SqrtEquivalence(uint256)
